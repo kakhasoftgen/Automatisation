@@ -4,7 +4,6 @@ go forward
 
 adding new lines
 
-
 ear
 stand and go forward
 this is the second couplet
@@ -12,3 +11,7 @@ this is the second couplet
 ear
 stand and go forward
 this is the second couplet again (correctly added)
+
+swear
+new year again
+this is second couplet for branchname
