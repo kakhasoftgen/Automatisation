@@ -8,3 +8,7 @@ adding new lines
 ear
 stand and go forward
 this is the second couplet
+
+ear
+stand and go forward
+this is the second couplet again (correctly added)
